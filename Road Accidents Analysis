@@ -1,13 +1,13 @@
-I analyzed the data on road accidents in Victoria to identify patterns in the accident cases based on factors such as severity, speed, lighting conditions, road geometry and more. I cleaned and validated the accident data in Excel and visualized the insights in Tableau. With this analysis, I aim to provide stakeholders with a broader understanding of road safety challenges in Victoria. Focusing on these insights, stakeholders can prioritize road safety interventions to minimize road accidents and create safer roads for the public.
+I analysed the data on road accidents in Victoria to identify patterns in the accident cases based on factors such as severity, speed, lighting conditions, road geometry and more. I cleaned and validated the accident data in Excel and visualized the insights in Tableau. With this analysis, I aim to provide stakeholders with a broader understanding of road safety challenges in Victoria. Focusing on these insights, stakeholders can prioritise road safety interventions to minimise road accidents and create safer roads for the public.
 
-​
+
 
 Key Insights:
 
-    ​Insightful Visualizations: With a thorough analysis, I identified key metrics such as total accidents, injuries, and deaths, that provide valuable insights on enhancing road safety. Further, I analyzed the accidents based on accident description, lighting condition, severity, road geometry, speed and location, thus, offering a comprehensive understanding of road accidents across Victoria.
+	Insightful Visualisations: With a thorough analysis, I identified key metrics such as total accidents, injuries, and deaths, that provide valuable insights on enhancing road safety. Further, I analysed the accidents based on accident description, lighting condition, severity, road geometry, speed and location, thus, offering a comprehensive understanding of road accidents across Victoria.
 
-    ​Data-oriented Decision Making: Analysis of the visuals in the dashboard offers stakeholders to make informed decisions to minimize road hazards and improve road safety. Stakeholders can make decisions like adopting stricter speed control measures, improving street lighting, building better road infrastructures and more.
+	Data-oriented Decision Making: Analysis of the visuals in the dashboard offers stakeholders to make informed decisions to minimise road hazards and improve road safety. Stakeholders can make decisions like adopting stricter speed control measures, improving street lighting, building better road infrastructures and more.
 
-    Geospatial Evaluation: Based on geospatial analysis of Victoria, stakeholders get a clearer picture of accident clusters and target those areas with road safety interventions and infrastructure upgrades. Such an approach enables the allocation of resources more efficiently for safer roads.
+	Geospatial Evaluation: Based on geospatial analysis of Victoria, stakeholders get a clearer picture of accident clusters and target those areas with road safety interventions and infrastructure upgrades. Such an approach enables the allocation of resources more efficiently for safer roads.
 
-    ​Actionable Insights: The dashboard offers strategic insights that empower policymakers and transportation agencies to implement effective strategies and modify policies for improving road safety across Victoria. Based on these insights, stakeholders can collaborate to foster safer road environments and save more lives.
+	Actionable Insights: The dashboard offers strategic insights that empower policymakers and transportation agencies to implement effective strategies and modify policies for improving road safety across Victoria. Based on these insights, stakeholders can collaborate to foster safer road environments and save more lives.
