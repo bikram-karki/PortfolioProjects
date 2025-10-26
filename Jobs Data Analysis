@@ -1,0 +1,13 @@
+I analysed job postings listed across multiple industries to uncover insights on job market trends, skill demands, salary offers and industry hiring trends. I cleaned and validated the job postings data in Excel and used PowerBI to highlight valuable job market insights. I filtered the information by job title and job position level to provide  detailed insights on job trends across industries. Through this analysis, I focus on informing jobseekers about the job market trends, the most demanded skills, salary progression over the years, work experience requirements as well as the most demanded job titles.  This analysis also helps the recruiters to get a good idea of hiring trends in their industries and advertise jobs to attract better candidates.
+
+​
+
+Key Insights:
+
+​Job Posting Trends: Analysing the job postings data, I calculated the average years of experience required for jobs across multiple industries according to the level of job positions such as entry-level, mid, senior level. I visualised the job posting trends per year for each job position level using a line chart to exhibit the fluctuations over time. The chart shows that the number of job postings has increased in recent years, which benefits jobseekers.
+
+​Salary Analysis: I visualised the trend of salary for each job position level with a clustered column chart to show how experience levels affect salary offered. I analysed the progression of salary across the years to visualize the fluctuation in compensation. These visuals serve as good indicators of salaries rising in recent times across multiple industries.
+
+Skills Analysis: I analysed the number of job postings that require specific skills across all industries to identify the most demanded skills. I visualised the percentage distribution of skills each year to show what skills are in demand recently. This information helps jobseekers to get an idea of the latest skill demands and upskill themselves to be more suitable for jobs.
+
+​Hiring Company Analysis: I analysed the companies across multiple industries hiring for various job titles to provide insights on the hiring trends across industries.  I categorised the companies based on the company size, average salary offered, location and number of job postings. This analysis assists jobseekers in identifying the industries with the most job postings and the highest salaries.
